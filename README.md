@@ -1,17 +1,13 @@
-## Foundry
+## Stablecoin
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-Foundry consists of:
-
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
+1. (Relative Stability) Anchored or Pegged --> $1.00
+   1. Chainlink Price feed
+   2. Seta function to exchange: ETH & BTC --> $1.00
+2. Stability Mechanism (Minting): Algorithmic (Decentralized)
+   1. People can only mint stablecoin with enough collateral (coded)
+3. Collateral: Exogenous (Crypto)
+   1. wETH
+   2. wBTC
 
 ## Usage
 
